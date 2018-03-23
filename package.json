@@ -1,0 +1,19 @@
+{
+  "name": "autotag",
+  "version": "1.0.0",
+  "description": "This is a node script to generate a new tag for launch ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narycc/autoTag.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "tag"
+  ],
+  "author": "zhongpingping",
+  "license": "ISC"
+}
