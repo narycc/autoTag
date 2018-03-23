@@ -1,6 +1,6 @@
 {
   "name": "autotag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a node script to generate a new tag for launch ",
   "main": "index.js",
   "repository": {
