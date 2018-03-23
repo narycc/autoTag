@@ -1,6 +1,6 @@
 {
   "name": "autotag",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a node script to generate a new tag for launch ",
   "main": "index.js",
   "repository": {
@@ -9,6 +9,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "autotag": "./bin/cmd.js"
   },
   "keywords": [
     "git",
